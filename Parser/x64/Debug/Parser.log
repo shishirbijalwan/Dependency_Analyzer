@@ -1,0 +1,12 @@
+﻿  MetricsExecutive.cpp
+  Parser.cpp
+  MetricsAnalysis.cpp
+  ConfigureParser.cpp
+  ASTree.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\Megha\Desktop\RealProject_3\Try1\Shishir_Project3\x64\Debug\Parser.lib
